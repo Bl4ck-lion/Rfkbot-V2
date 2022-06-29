@@ -11,14 +11,14 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau'
-gc2 = 'https://chat.whatsapp.com/HjRHck1G3WRHOx97fJkdMN'
-gc3 = 'https://chat.whatsapp.com/HcGcIB09sIvKrGytO8yfFn'
-global.linkGC = ['https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau', ''] // ganti jadi group lu
-global.owner = ['6289612698583','6288233832771'] // Put your number here //owner eval
-global.kontak = ['6289612698583','6288233832771'] //Ketika ada yang ngetik #owner
+gc1 = 'https://tinyurl.com/ya4dpmdv'
+gc2 = 'https://chat.whatsapp.com/GaRWLEYSSQO8Vof0uHOrGp'
+gc3 = 'https://chat.whatsapp.com/Hzm9su1OR0VF5uBXLtb0SB'
+global.linkGC = ['https://tinyurl.com/ya4dpmdv', ''] // ganti jadi group lu
+global.owner = ['6285608625102','6285810425814'] // Put your number here //owner eval
+global.kontak = ['6285608625102','6285810425814'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
+global.prems = ['6285608625102','6285810425814'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -35,34 +35,34 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey' (apikey kalian)
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://api.xteam.xyz': 'Dawnfrostkey',
-  'https://api.lolhuman.xyz': 'RFK-Rey',
+  'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-lolkey = 'RFK-Rey'
+lolkey = 'e54205a4ca2caa368cc067bb'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'mursid.st'
-namagithub = 'Botwa021'
-kasihcaption = `Instagram.com/mursid.st`
-namakontak1 = '𝙼𝚞𝚛𝚜𝚒𝚍 𝙱𝙾𝚃'
-namakontak2 = '𝙼𝚞𝚛𝚜𝚒𝚍'
+namaig = 'leonvx._'
+namagithub = 'Bl4ck-lion'
+kasihcaption = `Instagram.com/leonvx._`
+namakontak1 = 'ZakuroDev'
+namakontak2 = 'Rama Agung Supriyadi'
 
-//kasihcaption = `Instagram.com/mursid.st`
+//kasihcaption = `Instagram.com/leonvx._`
 
 // Sticker WM
-global.packname = 'мυяѕι∂' // ganti aja
-global.author = 'ʙᴏᴛ' // ganti aja
+global.packname = 'Yui - Chan' // ganti aja
+global.author = 'By Rama Agung Supriyadi' // ganti aja
 
 //yyy
-bc = 'мυяѕι∂' //мυяѕι∂ Broadcast
-footer = `\n© _*MursidBot*_`
-namabot = `WhatsApp Bot`
-namalu = 'MursidGanteng'
+bc = 'Yui - Chan' //мυяѕι∂ Broadcast
+footer = `\n _*By Rama Agung Supriyadi*_`
+namabot = `Yui - Chan`
+namalu = 'Rama Agung Supriyadi'
 
 
 // 
@@ -72,13 +72,13 @@ global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error kak*_'
 
-global.image = "https://telegra.ph/file/31701c03ffd465963a2cf.jpg"
+global.image = "https://telegra.ph/file/78431196350142176603c.jpg"
 
 // Ubah saja SC dari MursidXzy
-global.image = 'https://telegra.ph/file/31701c03ffd465963a2cf.jpg'//thumbnail
+global.image = 'https://telegra.ph/file/78431196350142176603c.jpg'//thumbnail
 
 // tingkat kesulitan, semakin tinggi semakin susah
-global.multiplier = 36 // The higher, The harder levelup
+global.multiplier = 50 // The higher, The harder levelup
 
 //*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
